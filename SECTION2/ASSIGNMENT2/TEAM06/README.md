@@ -8,6 +8,10 @@ Put your name in the Team Section and comment
 
 Wang, Zheng
 
+Sharma, Nikhil
+
 ## Comments
 
 Wang, Zheng
+
+Sharma, Nikhil
